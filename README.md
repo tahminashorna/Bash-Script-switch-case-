@@ -1,2 +1,2 @@
-# Bash-Script-switch-case-
+# Bash-Script
 Optional
